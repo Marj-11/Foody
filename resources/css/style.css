@@ -184,17 +184,11 @@ header {
 .logo {
     border-radius: 50%;
     margin: 10px 0;
-<<<<<<< HEAD
     height: 142px;
 }
 
 .main-nav {
     padding-right: 60px;
-=======
-}
-
-.main-nav {
->>>>>>> d29e15f49d6253a3e514bba803ead5ed77309478
     display: flex;
     flex-direction: row;
     align-items: center;
